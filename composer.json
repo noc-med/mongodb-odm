@@ -1,5 +1,5 @@
 {
-    "name": "noc-med/mongodb-odm",
+    "name": "nocvp/mongodb-odm",
     "type": "library",
     "description": "Doctrine MongoDB Object Document Mapper",
     "keywords": ["odm", "database", "persistence", "mongodb"],
